@@ -107,7 +107,7 @@ nav {
     max-width: 500px;
     margin-right: 5em;
 }
-#hero-portfolio-button{
+#hero-contact-button{
     margin-top: 1em;
     background-color: transparent;
     color: #212222;
@@ -115,19 +115,19 @@ nav {
     padding: 10px;
     border: 1px solid #212222;
 }
-#hero-contact-button{
+#hero-portfolio-button{
     background-color: #212222;
     color: #f3f3fb;
     border-radius: 20px;
     padding: 10px;
     border: none;
 }
-#hero-portfolio-button:hover{
+#hero-contact-button:hover{
     background-color: #eb340c;
     color: #f3f3fb;
     border: 1px solid #eb340c;
 }
-#hero-contact-button:hover{
+#hero-portfolio-button:hover{
     background-color: #eb340c;
 }
 
